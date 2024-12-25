@@ -14,11 +14,11 @@ ALGORITHMS = [
     #'pascal',
     #'decred',
     #'sia',
-    #'lbry',
+    'lbry',
     #'blake2s',
     #'daggerhashimoto',
     #'lyra2rev2'
-    'ZelHash',
+    #'ZelHash',
     #'daggerhashimoto_decred',
     #'daggerhashimoto_sia',
     #'daggerhashimoto_pascal',
