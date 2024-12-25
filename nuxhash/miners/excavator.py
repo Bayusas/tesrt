@@ -10,14 +10,15 @@ from nuxhash.utils import get_port
 
 
 ALGORITHMS = [
-    'equihash',
+    #'equihash',
     #'pascal',
     #'decred',
     #'sia',
     #'lbry',
     #'blake2s',
     #'daggerhashimoto',
-    #'lyra2rev2',
+    #'lyra2rev2'
+    'ZelHash',
     #'daggerhashimoto_decred',
     #'daggerhashimoto_sia',
     #'daggerhashimoto_pascal',
