@@ -14,7 +14,7 @@ ALGORITHMS = [
     #'pascal',
     #'decred',
     #'sia',
-    'lbry',
+    #'lbry',
     #'blake2s',
     #'daggerhashimoto',
     #'lyra2rev2'
@@ -29,7 +29,7 @@ ALGORITHMS = [
     #'cryptonightV7',
     #'cryptonightV8',
     #'lyra2z',
-    #'x16r'
+    'x16r'
     ]
 NHMP_PORT = 3200
 
