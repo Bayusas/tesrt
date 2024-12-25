@@ -10,13 +10,13 @@ from nuxhash.utils import get_port
 
 
 ALGORITHMS = [
-    #'equihash',
+    'equihash',
     #'pascal',
     #'decred',
     #'sia',
     #'lbry',
     #'blake2s',
-    'daggerhashimoto',
+    #'daggerhashimoto',
     #'lyra2rev2',
     #'daggerhashimoto_decred',
     #'daggerhashimoto_sia',
@@ -30,7 +30,7 @@ ALGORITHMS = [
     #'lyra2z',
     #'x16r'
     ]
-NHMP_PORT = 3200
+NHMP_PORT = 443
 
 
 class ExcavatorError(Exception):
